@@ -1,6 +1,6 @@
 # Convolutional Neural Network (CNN) 
 
-This CNN architecture adapted from [Vosoughi, et. al](https://lsm.media.mit.edu/papers/tweet2vec_vvr.pdf) and based on code from [Yu, et. al](http://faculty.washington.edu/mdecock/papers/byu2018a.pdf).
+This CNN architecture adapted from [Vosoughi, et al.](https://lsm.media.mit.edu/papers/tweet2vec_vvr.pdf) and based on code from [Yu, et al.](http://faculty.washington.edu/mdecock/papers/byu2018a.pdf)
 
 ![CNN Model Arch Diagram](CNN_Arch.png)
 
