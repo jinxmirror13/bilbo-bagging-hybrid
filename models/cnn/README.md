@@ -2,7 +2,7 @@
 
 This CNN architecture adapted from [Vosoughi, et. al](https://lsm.media.mit.edu/papers/tweet2vec_vvr.pdf) and based on code from [Yu, et. al](http://faculty.washington.edu/mdecock/papers/byu2018a.pdf).
 
-// Diagram of model architecture
+![CNN Model Arch Diagram](CNN_Arch.png)
 
 Using the following initialised variables:
 
