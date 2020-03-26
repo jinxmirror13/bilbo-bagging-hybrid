@@ -1,6 +1,6 @@
 # Long Short-Term Memory (LSTM) Network
 
-Deep learning first addressed DGA detection with work by [Woodbridge et al.](https://arxiv.org/abs/1611.00791), an implementation of an LSTM used for nonspecific DGA analysis. Their experiments show that their deep learning approach, an LSTM network, outperforms a character-level HMM and a random forest model that utilise features such as the entropy of character distribution. Their analysis and implementation led to a large success for identifying most DGA families; however, their LSTM did not score highly on `suppobox` or `matsnu`, dictionary DGA families. 
+Deep learning first addressed DGA detection with work by [Woodbridge, et al.](https://arxiv.org/abs/1611.00791), an implementation of an LSTM used for nonspecific DGA analysis. Their experiments show that their deep learning approach, an LSTM network, outperforms a character-level HMM and a random forest model that utilise features such as the entropy of character distribution. Their analysis and implementation led to a large success for identifying most DGA families; however, their LSTM did not score highly on `suppobox` or `matsnu`, dictionary DGA families. 
 
 ## A bit about LSTMs
 
