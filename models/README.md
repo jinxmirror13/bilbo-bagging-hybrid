@@ -1,6 +1,6 @@
 # Models Architectures
 
-Each file contains the Keras code and a brief description of how it was developed in the paper. 
+Each file contains the Keras code and a brief description of how it was developed in the paper. All model development done in Python 3.7
 
 Please reach out to Kate Highnam at kwh19@ic.ac.uk with any questions.
 
