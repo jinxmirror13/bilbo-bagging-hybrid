@@ -1,6 +1,6 @@
 # bilbo-bagging-hybrid
 
-Code to go with the paper "Real-Time Detection of Dictionary DGA Network Traffic using Deep Learning" (soon available in preprint on ArXiv) and our presentations at [ShmooCon 2018](https://www.youtube.com/watch?v=99hniQYB6VM), [Deep Learning World 2018](https://www.predictiveanalyticsworld.com/machinelearningtimes/wise-practitioner-deep-learning-world-interview-series-domenic-puzio-capital-one/9315/), and the Australian Cyber Security Centre Conference (2018).
+Code to go with the paper ["Real-Time Detection of Dictionary DGA Network Traffic using Deep Learning"](https://arxiv.org/abs/2003.12805) and our presentations at [ShmooCon 2018](https://www.youtube.com/watch?v=99hniQYB6VM), [Deep Learning World 2018](https://www.predictiveanalyticsworld.com/machinelearningtimes/wise-practitioner-deep-learning-world-interview-series-domenic-puzio-capital-one/9315/), and the Australian Cyber Security Centre Conference (2018).
 
 ## Paper Abstract
 
